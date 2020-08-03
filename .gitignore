@@ -1,0 +1,8 @@
+*.bk
+*.swp
+*~
+
+node_modules/
+dist/
+
+!.gitkeep
